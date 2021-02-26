@@ -22,10 +22,7 @@ The purpose of this challenge is to evaluate your HTML, CSS, Javascript and Reac
 2.  Create a branch with your name;
 3.  Solve the challenge in the best way you can;
 
-**Send us your code in one of two ways.**
-
-1.  Send us a PR;
-2.  Send us an email with your code in a zip
+**Send us your code in a zip file**
 
 ### Tips
 
