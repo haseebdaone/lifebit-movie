@@ -1,5 +1,7 @@
 ## About the challenge
 
+Link to layout file can be found here: https://drive.google.com/file/d/1odVI0RZrai1PLyajf0w3sWMz9TTGTsWR/view?usp=sharing
+
 This is a pretty simple test, in which you should be able to write a React app, using the provided screens as reference. You’ll need to make requests to an API to get some JSON content, filter the data and print it on view.
 
 You can use any boilerplate/approach you prefer, but try to keep it simple. We encourage you to use your favourite tools and packages to build a solid React application.
